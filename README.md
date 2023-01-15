@@ -20,7 +20,7 @@ The current version of minishell is developed and tested on macOS.
 - GNU Readline library
 
 ```
-git clone https://github.com/srein91/minishell.git minishell
+git clone https://github.com/SRein91/Minishell.git minishell
 ```
 ```
 cd minishell && make
